@@ -67,6 +67,7 @@ Requires: geoclue
 Requires: sd-utils
 
 Requires: droid-hal-kernel-dontbeevil
+Requires: droid-hal-kernel-modules-dontbeevil
 Requires: droid-config-dontbeevil-sailfish
 Requires: droid-config-dontbeevil-pulseaudio-settings
 Requires: droid-config-dontbeevil-policy-settings
