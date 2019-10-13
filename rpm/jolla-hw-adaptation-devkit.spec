@@ -1,6 +1,6 @@
-Name: jolla-hw-adaptation-dontbeevil
-Summary: Jolla HW Adaptation dontbeevil
-Version: 0.0.1
+Name: jolla-hw-adaptation-devkit
+Summary: Jolla HW Adaptation devkit
+Version: 0.0.2
 Release: 1
 License: BSD-3-Clause
 Source: %{name}-%{version}.tar.gz
@@ -66,16 +66,16 @@ Requires: geoclue
 # For mounting SD card automatically
 Requires: sd-utils
 
-Requires: droid-hal-kernel-dontbeevil
-Requires: droid-config-dontbeevil-sailfish
-Requires: droid-config-dontbeevil-pulseaudio-settings
-Requires: droid-config-dontbeevil-policy-settings
-Requires: droid-config-dontbeevil-preinit-plugin
-Requires: droid-config-dontbeevil-bluez5
-Requires: droid-hal-version-dontbeevil
+Requires: droid-hal-kernel-devkit
+Requires: droid-config-devkit-sailfish
+Requires: droid-config-devkit-pulseaudio-settings
+Requires: droid-config-devkit-policy-settings
+Requires: droid-config-devkit-preinit-plugin
+Requires: droid-config-devkit-bluez5
+Requires: droid-hal-version-devkit
 #Requires: droid-config-donebeevil-flashing
 
 %description
-Meta package to install packages for dontbeevil HW Adaptation
+Meta package to install packages for devkit HW Adaptation
 %files
  
