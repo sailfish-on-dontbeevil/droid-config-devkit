@@ -1,6 +1,6 @@
 Name: jolla-hw-adaptation-devkit
 Summary: Jolla HW Adaptation devkit
-Version: 0.0.2
+Version: 0.0.1
 Release: 1
 License: BSD-3-Clause
 Source: %{name}-%{version}.tar.gz
