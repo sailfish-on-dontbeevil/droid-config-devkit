@@ -66,6 +66,9 @@ Requires: geoclue
 # For mounting SD card automatically
 Requires: sd-utils
 
+# Unmuting sound card
+Requires: alsa-utils
+
 Requires: droid-hal-kernel-devkit
 Requires: droid-config-devkit-sailfish
 Requires: droid-config-devkit-pulseaudio-settings
