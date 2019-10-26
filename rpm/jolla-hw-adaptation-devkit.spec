@@ -69,7 +69,7 @@ Requires: sd-utils
 # Unmuting sound card
 Requires: alsa-utils
 
-Requires: droid-hal-kernel-devkit
+Requires: droid-hal-kernel-pine
 Requires: droid-config-devkit-sailfish
 Requires: droid-config-devkit-pulseaudio-settings
 Requires: droid-config-devkit-policy-settings
